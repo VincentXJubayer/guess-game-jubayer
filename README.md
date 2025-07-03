@@ -1,3 +1,6 @@
+# Agei Bolteche 30% Credit Amr Boss er 🙂
+
+
 # 🎯 JUBAYER guess Number Game 
 
 Welcome to the **Guess The Number Game** – a fast, fun, and beautifully designed number guessing game built using **HTML, CSS, and JavaScript**.

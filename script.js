@@ -25,7 +25,7 @@ function checkGuess() {
     gameOver = true;
     return;
   }
-
+/// ========== GAME OVER ==============
   if (chances === 0) {
     message.innerHTML = `💥 Game Over!`;
     hint.innerHTML = `The number was <b>${secretNumber}</b>.`;
@@ -51,3 +51,8 @@ function resetGame() {
   chancesSpan.textContent = chances;
   guessInput.value = "";
 }
+
+
+
+
+
